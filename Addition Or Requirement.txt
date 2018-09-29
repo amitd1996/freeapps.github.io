@@ -1,0 +1,14 @@
+date database
+create double paragraph 
+img
+make tags side and bottom of the single post page 
+home page paragraph continue reading 
+make line to separate each post
+navbar - about history contact dmca faq
+search button
+software heading make capital
+footer - ©2008~2038 of FreeApps Group.
+pagination 5
+sidebar right side col1- category col2- latest post col3- popular post
+calender plugin 
+download link database

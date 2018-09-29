@@ -1,0 +1,61 @@
+        // $(function () {
+  //               $("#register-form").validate({
+  //                   rules: {
+  //                       Category: {
+  //                           required: true,
+  //                       },
+  //                       Name: {
+  //                           required: true,
+  //                       },
+  //                       Post: {
+  //                           required: true,
+  //                       },
+  //                       Date: {
+  //                           required: true,
+  //                       },
+  //                       Download Link: {
+  //                           required: true,
+  //                       },
+  //                       Download Link Name: {
+  //                           required: true,
+  //                       },
+  //                       Image: {
+  //                           required: true,
+  //                       },
+  //                       admin_id: {
+  //                           required: true,
+  //                       },
+  //                   },
+  //                   messages: {
+  //                       Name: {
+  //                         required: "Please enter your Name",
+  //                         minlength: "Your username must consist of at least 2 characters"
+  //                       },
+  //                       Post: {
+  //                         required: "Please Enter a Post",
+
+  //                       },
+  //                       Category: {
+  //                         required: "Please Select a Category"
+  //                       },
+  //                       Dlink: {
+  //                         required: "Please enter your Download Link",
+  //                       },
+  //                       Dlinkname: {
+  //                         required: "Please Enter a Download Link Name"
+  //                       },
+  //                       Dlinksize: {
+  //                         required: "Please enter your Download Link Size"
+  //                       },
+  //                       admin_id: {
+  //                         required: "Please Provide a Software Category"
+  //                       },
+  //                       Image: {
+  //                         required: "Please Provide a Image"
+  //                       },
+  //                       Date: {
+  //                         required: "Please Provide a Date"
+  //                       }
+
+  //               });
+  //           });
